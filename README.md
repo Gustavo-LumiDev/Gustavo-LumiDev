@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Gustavo(Lumi) Alves
-- 👀 I’m interested in philantropy, sports, games, tecnology, books..
-- 🌱 I’m currently learning English Language, HTML5 and CSS3.
+Meu nome é Gustavo Alves(ou simplesmente, Lumi), sou estudante de Desenvolvimento em Front-End e atualmente estudando HTML5 e CSS3. Minha transição para o desenvolvimento começou dentro da Engenharia Química, mas como assim dentro da Engenharia Química? Fui estudante de engenharia na UFTM por longos 3 anos e lá pude vivenciar meu primeiro contato com programação através da Linguagem C, e quando resolvi meu primeiro problema em programação comecei apreciar a carreira. Mas então, teve outro motivo? sim, através da Ordem DeMolay onde aprendi apreciar a filantropia praticada na comunidade na qual eu estava inserido. Mas o que isto tem a ver com area de programação? tudo ou quase tudo, e a resposta a esta pergunta tu mesmo irá me dizer. Qual outra carreira pode impactar a vida de pessoas em escala global?
 <!---
 Gustavo-LumiDev/Gustavo-LumiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
